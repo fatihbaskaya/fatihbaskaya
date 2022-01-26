@@ -25,15 +25,15 @@
   
 <details align="left">
   <summary>:zap: GitHub Stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihbaskaya&theme=dark&show_icons=true&locale=en" alt="fatihbaskaya" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihbaskaya&theme=vision-friendly-dark&show_icons=true&locale=en" alt="fatihbaskaya" />
 </details>
 
 <details align="left">
   <summary>:zap: Streaks</summary>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbaskaya&theme=dark" alt="fatihbaskaya" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbaskaya&theme=vision-friendly-dark" alt="fatihbaskaya" />
 </details>
 
 <details align="left">
   <summary>:zap: Most Used Languages</summary>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihbaskaya&theme=dark&show_icons=true&locale=en&layout=compact" alt="fatihbaskaya" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihbaskaya&theme=vision-friendly-dark&show_icons=true&locale=en&layout=compact" alt="fatihbaskaya" />
 </details>
