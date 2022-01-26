@@ -30,7 +30,7 @@
 
 <details align="left">
   <summary>:zap: Streaks</summary>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbaskaya&theme=default" alt="fatihbaskaya" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatihbaskaya&theme=dark" alt="fatihbaskaya" />
 </details>
 
 <details align="left">
