@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihbaskaya&label=Profile%20views&color=0e75b6&style=flat" alt="fatihbaskaya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/fatihbaskaya0" target="blank"><img src="https://img.shields.io/twitter/follow/fatihbaskaya0?logo=twitter&style=for-the-badge" alt="fatihbaskaya0" /></a> </p>
-
 - 🔭 Product Lead at [LIVAD Technologies](https://github.com/LIVAD-Technologies)
 
 - 👨‍💻 All of my projects are available at [http://fatihbaskaya.com](http://fatihbaskaya.com)
