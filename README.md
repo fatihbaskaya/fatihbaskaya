@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/fatihbaskaya0" target="blank"><img src="https://img.shields.io/twitter/follow/fatihbaskaya0?logo=twitter&style=for-the-badge" alt="fatihbaskaya0" /></a> </p>
 
-- 🔭 I’m Product Lead at [LIVAD Technologies](https://github.com/LIVAD-Technologies)
+- 🔭 Product Lead at [LIVAD Technologies](https://github.com/LIVAD-Technologies)
 
 - 👨‍💻 All of my projects are available at [http://fatihbaskaya.com](http://fatihbaskaya.com)
 
