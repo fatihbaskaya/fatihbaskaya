@@ -1,11 +1,16 @@
 <h1 align="left">Hi 👋, I'm Fatih Başkaya</h1>
 <a href="https://linkedin.com/in/fatihbaskaya" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4493f8&random=false&width=435&lines=I'm+a+Product+Designer.;I'm+also+a+Developer.;Entrepreneurial+spirit+drives+me.;Formerly+a+Twitch+streamer." alt="Fatih Başkaya" /></a>
 
-- 🌟 Product Lead at [LIVAD Technologies](https://www.linkedin.com/company/livad-technologies)
+<p>I have a passion for creating and building innovative projects. Some of my notable creations include <a href="https://supdent.org" target="_blank">🎓Supdent</a>, <a href="https://fatihbaskaya.com/noty" target="_blank">📝Noty</a>, <a href="https://bot.fatihbaskaya.com" target="_blank">🤖Faith Discord Bot</a>, <a href="https://fatihbaskaya.com/colex" target="_blank">🎨Colex</a>, <a href="https://fatihbaskaya.com/bombfuse" target="_blank">💣BombFuse</a>, <a href="https://fatihbaskaya.com/findball" target="_blank">🔍FindBall</a>, and <a href="https://fatihbaskaya.com/shutime" target="_blank">⏱️Shutime</a>. Also, I'm working on a few new projects/apps in the background as well. 
 
-- 💻 All of my projects are available at [https://fatihbaskaya.com](https://fatihbaskaya.com)
+🔗 Check out all my projects at <a href="https://fatihbaskaya.com" target="_blank">fatihbaskaya.com</a>.
 
-- 📩 How to reach me **me@fatihbaskaya.com**
+
+🏆 I received over 17+ certifications and awards from some of the biggest companies in the industry including Microsoft, Google, Meta, Twitch, and more.
+
+🛠️ Currently, I work at [LIVAD Technologies](https://www.linkedin.com/company/livad-technologies) as a Product Lead/Manager, where I am responsible for the overall success of the company's products. I'm also working with cross-functional teams to understand customer needs, gather feedback, and prioritize features.
+
+I've always been passionate about technology, programming, and innovation, and that's what has led me to where I am today. I am constantly looking for new opportunities to learn and grow, and I'm excited to see what the future holds for me.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,6 +20,8 @@
 <a href="https://twitter.com/fatihbaskaya0" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
 <a href="https://twitch.tv/fatihbaskaya0" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"></a>
 <a href="https://youtube.com/@fatihbaskaya" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
+
+- 📩 Direct contact: **me@fatihbaskaya.com**
 </p>
 
 <h1></h1>
